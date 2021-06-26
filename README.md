@@ -4,6 +4,10 @@
 
 * [webpage - my web page](https://tummanapallyanuraag.github.io/)
 
+[![AskUbuntu](https://askubuntu.com/users/flair/914325.png?theme=clean)](https://askubuntu.com/users/914325/anuraag-tummanapally?tab=profile)
+
+[![StackOverflow](https://stackoverflow.com/users/flair/6019228.png?theme=clean)](https://stackoverflow.com/users/6019228/anuraag-tummanapally?tab=profile)
+
 ## Fun stuff
 
 * [webpage - a few games i developed for fun :P](https://tummanapallyanuraag.github.io/games/)
